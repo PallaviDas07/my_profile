@@ -1,0 +1,27 @@
+html{
+    background-image: url(images.jpeg) no-repeat center center fixed; 
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+/* div {
+    background: url(images.jpeg);
+    background-size: 1020px 1020px;
+    background-repeat: no-repeat;
+} */
+
+.img-circle {
+        border-radius: 50%;
+}
+body
+{
+background-colour:#ffffff;
+}
+p {
+   color:white;
+   text-align:center;
+   font-family:'Artifika';
+   font-size:2em;
+    }
